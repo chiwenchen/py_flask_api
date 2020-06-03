@@ -5,7 +5,7 @@ how to start this project
 docker-compose up -d
 ```
 
-hot to shut down services
+how to shut down services
 
 ```
 docker-compose down
